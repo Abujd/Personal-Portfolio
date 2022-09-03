@@ -1,0 +1,41 @@
+
+
+/* About Me Section */
+.verticalLine{
+    height: 140px;
+    width: 1px;
+    background-color: #fff;
+	margin-left: 14px;
+
+}
+.socialIcon :hover{
+	fill: rgb(134 239 172);
+}
+.rotateText{
+	transform: rotate(90deg);
+	bottom: 118px;
+    position: relative;
+}
+.verticalEmailLine{
+    height: 140px;
+    width: 1px;
+    background-color: #fff;
+	margin-left: 120px;
+}
+
+/* experience Section */
+.showDetails{
+    display: block;
+}
+.hideDetails{
+    display: none;
+}
+
+/* header */
+.profileImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-size: cover;
+    border: 2px solid gray;
+}
